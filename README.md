@@ -11,7 +11,7 @@ Ensure you have Java installed on your machine. To check, run `java -version` in
 Clone this repository:
 
 ```sh
-git clone https://github.com/your-username/PROJECT NAME
+git clone https://github.com/dempsbx/Zodiac-Calculator
 ```
 
 Compile the program:
